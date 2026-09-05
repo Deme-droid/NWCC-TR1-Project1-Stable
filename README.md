@@ -3,3 +3,4 @@ Web portal based on Html CSS and JavaScript. Accepts and stores valid email addr
 
 To use the code hassle free , please refer to Tutorial_1 and Tutorial_2. 
 A video showing working is also uploaded on YT , link is in tutorial 1
+. Tutorial 2 is inner working and jargon used for development. 
